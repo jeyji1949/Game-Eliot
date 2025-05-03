@@ -74,8 +74,6 @@ Le jeu est divisé en 3 niveaux principaux :
 
 ## 📽️ Vidéo de démonstration
 
-🎥 Une courte vidéo est disponible ici : les videos sont de le depot
-
 ℹ️ Note : La qualité de la vidéo est partiellement affectée par des crashes Unity lors de l’enregistrement. Nous nous excusons pour ce désagrément.
 
 ---
