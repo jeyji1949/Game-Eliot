@@ -101,7 +101,7 @@ Citation intégrée dans le jeu :
 
 ## 👤 Équipe
 
-Développeur.e : Eiman Diban / EL KHRAIBI Jihane
-Encadrant.e : M.Lefdaoui
-Projet académique – EST DE SALE
+* Développeures : Eiman Diban / EL KHRAIBI Jihane
+* Encadrant : M.Lefdaoui
+* Projet académique – EST DE SALE
 
